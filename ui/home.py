@@ -3,7 +3,7 @@ import requests
 
 API_URL = "http://192.168.2.108:5000"
 
-isim="numannn"
+
 class HomeScreen(QWidget):
     def __init__(self, user_id):
         super().__init__()
